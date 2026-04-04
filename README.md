@@ -352,4 +352,4 @@ MIT — use freely in your projects.
 
 **Built by [spinov001-art](https://github.com/spinov001-art)** — 180+ open source repos for developers.
 
-**Need custom scraping?** [View all tools](https://github.com/spinov001-art) | [Hire me](https://dev.to/0012303)
+**Need custom scraping?** [View all tools](https://github.com/spinov001-art) | [Hire me](https://github.com/spinov001-art)
