@@ -350,6 +350,16 @@ MIT — use freely in your projects.
 
 ---
 
-**Built by [spinov001-art](https://github.com/spinov001-art)** — 180+ open source repos for developers.
+## Need Custom Scraping?
 
-**Need custom scraping?** [View all tools](https://github.com/spinov001-art) | [Hire me](https://github.com/spinov001-art)
+I've built 78+ production scrapers on [Apify](https://apify.com/knotless_cadence). I can extract data from **any website** — e-commerce, real estate, job boards, social media — with anti-detection, proxy rotation, and structured JSON/CSV output.
+
+**What you get:** Working scraper in 24-48h, hosted on Apify (free tier available), with monitoring and auto-retry.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**.
+
+🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
+
+---
+
+*Built by [spinov001-art](https://github.com/spinov001-art) — 180+ open source repos for developers.*
